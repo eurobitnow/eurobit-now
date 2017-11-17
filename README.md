@@ -50,4 +50,4 @@ After that your simplewallet and daemon will be fully synced!
 
 You can also solo mine in the daemon by doing this command: 
 
-> start_mine [your wallet address]
+> start_mining [your wallet address]
