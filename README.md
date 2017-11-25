@@ -3,7 +3,9 @@
 # BEFORE USING EUROBIT SIMPLEWALLET/DAEMON OR EUROBIT GUI CLIENT:
 ## If your daemon is stuck on block 0, or if you do not have any peers, load up the daemon and start it like the following:
 > ./eurobitd --add-peer 35.196.218.62:8080
+
 Or
+
 > ./eurobitd --add-peer 35.188.44.219:8080
 ## Doing this will manually connect you to the seed nodes to allow you to find more peers, if the daemon or GUI client is starting at block 0 exit both and open the daemon with that command, then you may continue to use simplewallet once it is done syncing, or once it is done syncing close the daemon and open up the GUI client and it should start getting blocks as it should normally
 
