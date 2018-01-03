@@ -2,7 +2,7 @@
 
 # BEFORE USING EUROBIT SIMPLEWALLET/DAEMON OR EUROBIT GUI CLIENT:
 ## If your daemon is stuck on block 0, or if you do not have any peers, load up the daemon and start it like the following:
-> ./eurobitd --add-peer 35.196.218.62:8080
+> ./eurobitd --add-peer 35.226.137.84:8080
 
 Or
 
