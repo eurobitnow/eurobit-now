@@ -122,14 +122,7 @@ __attribute__((unused))
 // You may add here other checkpoints using the following format:
 // {<block height>, "<block hash>"},
 const std::initializer_list<CheckpointData> CHECKPOINTS = {
-  {1,  "0267552d774eaaf335d651873911fe1f0e24316ab8d28f3b6a44e603e0acc6b6"},
-  {10, "88081562bbf180068434fadaf5f098e0650144b88adc90d345066364485467d5"},
-  {25, "48d43653b1bc555c17b00ba4a81247f0182076c98a6306a5824fd51a01b67d93"},
-  {40, "b4413b0a41733d13bce1181f45ea3bc966ea172afc58027d768cd1bdedaf0460"},
-  {100, "c7f37f6bc80899b19c38932be24a4de810d3584b23ea7912b123ad7201b62511"},
-  {400, "31ee107a47092d5f16a810bf5d71592e6f2c6e8ee22617c0d361d3f6db8e0f53"},
-  {1200, "5197c3ff4a11f01fda45a582c9ac4eaba389d601d5f9a537e1e29fb96895deca"},
 };
-} // CryptoNote
+} // Eurobit Checkpoints
 
 #define ALLOW_DEBUG_COMMANDS
