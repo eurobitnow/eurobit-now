@@ -73,7 +73,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 } // parameters
 
 //TODO Put here the name of your currency
-const char     CRYPTONOTE_NAME[]                             = "Eurobit";
+const char     CRYPTONOTE_NAME[]                             = "eurobit";
 const char     GENESIS_COINBASE_TX_HEX[]                     = "010501ff0001ece9d9b6c137029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101cad2dadf94f3d3021aaa601452ed9ab476116bc68944df3474af6158d068d5e7";
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
