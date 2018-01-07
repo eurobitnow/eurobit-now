@@ -1,8 +1,6 @@
 Release 0.4.3
 
-Daemon seed node update
-
-Daemon should be more comptable with pool software (Use cryptonote-universal-pool)
+Daemon seed node updated
 
 
 Release 0.4.2
