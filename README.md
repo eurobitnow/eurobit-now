@@ -1,4 +1,26 @@
-# Eurobit
+# Eurobit-Now
+# coming VERY SOON
+
+# do not download or clone the current code as this is the original non working eurobit code.
+# EVERYTHING BELOW THIS POINT IS FROM THE OLD BROKEN EUROBIT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # BEFORE USING EUROBIT SIMPLEWALLET/DAEMON OR EUROBIT GUI CLIENT:
 ## If your daemon is stuck on block 0, or if you do not have any peers, load up the daemon and start it like the following:
